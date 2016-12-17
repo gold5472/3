@@ -29,5 +29,5 @@ if (this.clear = true) return; // Don't do anything if the game is over
 
 // The Winner
 if (this.playervalue === 8) this.won = true;
-var this.action = false
+var (this.action = false)
 
