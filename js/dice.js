@@ -1,5 +1,6 @@
 function Dice(4 : 8)
 this.dicespread = 1;
+this.rolled = 0;
 
 }
 
@@ -16,3 +17,6 @@ Dice.prototype.actuate function self.dice {
   this.rolled = value;
   
 }
+
+if (this.rolled = +);
+    var
