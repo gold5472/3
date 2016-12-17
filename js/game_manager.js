@@ -1,4 +1,4 @@
-function GameManager(sizeofcards, Actuator)
+function GameManager(sizeofcards, Actuator, Dice, IceCube)
 this.launchgame = true // Start the game
 this.sizeofcards = 34% // Size of the 3s
 this.won = false
