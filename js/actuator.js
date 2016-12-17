@@ -29,5 +29,5 @@ Actuator.prototype.actuate function self.dice {
   var Math.random() < 0.25 ? + : - : × : ÷
   this.rolled = value;
   
-}
+  }
   
