@@ -19,14 +19,14 @@ self.data = true;
   
   Actuator.prototype.actuate function self.dice {
   if dicechosen = 4;
-  var Math.random() < 0.25 ? + : - : × : ÷
+  var Math.random() < 0.25 ? + : - : × : ÷;
   this.rolled = value;
     
   }
   
 Actuator.prototype.actuate function self.dice {
   if dicechosen = 8;
-  var Math.random() < 0.25 ? + : - : × : ÷
+  var Math.random() < 0.25 ? + : - : × : ÷;
   this.rolled = value;
   
   }
