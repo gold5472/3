@@ -19,17 +19,18 @@ Dice.prototype.actuate function self.dice {
 }
 
 if (this.rolled = +); {
-    var this.playervalue = currentvalue + 1;
+    var this.playervalue = currentvalue + 1; }
     
 if (this.rolled = -); {
-    var this.playervalue = currentvalue - 1;
+    var this.playervalue = currentvalue - 1; }
   
 if (this.rolled = ×); {
-    var this.playervalue = currentvalue + 1;
-    var this.otherplayervalue = currentvalue - 1;
+    var this.playervalue = currentvalue + 1; 
+    var this.otherplayervalue = currentvalue - 1; }
   
 if (this.rolled = ÷); {
     var this.playervalue = currentvalue - 1;
-    var this.otherplayervalue = currentvalue + 1;
+    var this.otherplayervalue = currentvalue + 1; }
   
+{
 }
