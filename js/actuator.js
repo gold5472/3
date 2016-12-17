@@ -4,7 +4,7 @@ this.state      = document.querySelector(".state");
 
 }
 
-Actuator.prototype.actuate = function (dice, metadata) { // Connects to the dice and metadata
+Actuator.prototype.actuate = function (Dice, metadata) { // Connects to the dice and metadata
 var self = this;
 
 }
