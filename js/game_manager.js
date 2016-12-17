@@ -1,9 +1,9 @@
 function GameManager(sizeofcards, Actuator)
-this.launch-game = true // Start the game
-this.sizeofcards = 34px // Size of the 3s
+this.launchgame = true // Start the game
+this.sizeofcards = 34% // Size of the 3s
 this.won = false
 this.over = false
-this.state = normal
+this.state = state.normal
 this.action = true // Makes game function
 this.playervalue === 0
 self.data = true
@@ -21,7 +21,7 @@ var chosedice = value
 if (this.over) {
 this.clear = true;
 } else {
-this.state = normal
+this.state = state.normal
 
 }
 };
