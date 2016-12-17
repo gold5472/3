@@ -13,7 +13,7 @@ self.data = true
 GameManager.protoype.chooseDice = function {} {
 if (this.over = false) {
 var chosendice = Math.random() < 0.75 ? 4 : 8;
-var chosedice = value
+var chosedice = value;
 
 }
 };
