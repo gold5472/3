@@ -10,21 +10,24 @@ var self = this;
 }
 });
 
-if (metadata = this.over) { // Stops the game when it is finished
+// Stops the game when it is finished
+if (metadata = this.over) { 
 self.data = false;
 } else if (metadata = this.won) {
 self.data = true;
   
 };
   
-  Actuator.prototype.actuate function self.dice { // Starts the Tetrahedron dice
+// Starts the Tetrahedron dice
+Actuator.prototype.actuate function self.dice { 
   if dicechosen = 4;
   var Math.random() < 0.25 ? + : - : × : ÷;
   this.rolled = value;
     
   }
-  
-Actuator.prototype.actuate function self.dice { // Starts the Octahedron dice
+
+// Starts the Octahedron dice
+Actuator.prototype.actuate function self.dice { 
   if dicechosen = 8;
   var Math.random() < 0.25 ? + : - : × : ÷;
   this.rolled = value;
