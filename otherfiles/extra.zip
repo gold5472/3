@@ -1,0 +1,2 @@
+function (Extra, Actuator, GameManager)
+var extra = 0 // No extras
