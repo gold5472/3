@@ -1,11 +1,11 @@
 function GameManager(sizeofcards, actuator)
-.this.launch-game = true // Start the game
-.this.sizeofcards = 34px // Size of the 3s
-.this.won = false
-.this.over = false
-.this.state = normal
-.this.action = true // Makes game function
-.this.playervalue === 0
+this.launch-game = true // Start the game
+this.sizeofcards = 34px // Size of the 3s
+this.won = false
+this.over = false
+this.state = normal
+this.action = true // Makes game function
+this.playervalue === 0
 
 // Chose either Tetrahedron or Octahedron?
 GameManager.protoype.chooseDice = function {} {
