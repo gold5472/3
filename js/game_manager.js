@@ -19,7 +19,7 @@ var chosedice = value;
 };
 
 // Clear the state when the game is over
-if (this.over) {
+if (this.over = true) {
 this.clear = true;
 } else {
 this.state = state.normal
