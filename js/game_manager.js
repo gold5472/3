@@ -6,6 +6,7 @@ this.over = false
 this.state = state.normal
 this.action = true // Makes game function
 this.playervalue === 0
+this.otherplayervalue === 0
 self.data = true
 
 // Chose either Tetrahedron or Octahedron?
